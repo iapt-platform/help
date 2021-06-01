@@ -6,7 +6,7 @@
 * 翻译
 	* [在译经楼中翻译](translation/work_in_studio.md)
 	* [在藏经阁中翻译](translation/work_in_lib.md)  
-	* [发布](translation/work_in_studio.md)
+	* [发布](translation/publish.md)
 	* [修改建议](translation/pr.md)
 	* [markdown语法](translation/markdown.md)
 * 术语
