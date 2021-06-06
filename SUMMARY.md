@@ -1,19 +1,23 @@
-* [首页](readme.md)
-* 概要
-* 快速入门
-	* [逐词解析](quickstart/wbw.md)
-* 版本管理
-* 逐词解析
-* 翻译
-	* [在译经楼中翻译](translation/work_in_studio.md)
-	* [在藏经阁中翻译](translation/work_in_lib.md)  
-	* [发布](translation/publish.md)
-	* [修改建议](translation/pr.md)
-	* [markdown语法](translation/markdown.md)
-* 术语
-* 字典
-* 搜索
-* 自定义文章
-* 工作组
-* 协作
-* 课程
+# Table of contents
+
+* [Introduction](README.md)
+* [首页](shou-ye.md)
+* [概要](gai-yao.md)
+* [快速入门](kuai-su-ru-men/README.md)
+  * [逐词解析](kuai-su-ru-men/wbw.md)
+* [版本管理](ban-ben-guan-li.md)
+* [逐词解析](zhu-ci-jie-xi.md)
+* [翻译](fan-yi/README.md)
+  * [在译经楼中翻译](fan-yi/work_in_studio.md)
+  * [在藏经阁中翻译](fan-yi/work_in_lib.md)
+  * [发布](fan-yi/publish.md)
+  * [修改建议](fan-yi/pr.md)
+  * [markdown语法](fan-yi/markdown.md)
+* [术语](shu-yu.md)
+* [字典](zi-dian.md)
+* [搜索](sou-suo.md)
+* [自定义文章](zi-ding-yi-wen-zhang.md)
+* [工作组](gong-zuo-zu.md)
+* [协作](xie-zuo.md)
+* [课程](ke-cheng.md)
+
