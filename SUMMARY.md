@@ -1,4 +1,19 @@
-# Table of contents
-
-* [Initial page](README.md)
-
+* [首页](readme.md)
+* 概要
+* 快速入门
+	* [逐词解析](quickstart/wbw.md)
+* 版本管理
+* 逐词解析
+* 翻译
+	* [在译经楼中翻译](translation/work_in_studio.md)
+	* [在藏经阁中翻译](translation/work_in_lib.md)  
+	* [发布](translation/publish.md)
+	* [修改建议](translation/pr.md)
+	* [markdown语法](translation/markdown.md)
+* 术语
+* 字典
+* 搜索
+* 自定义文章
+* 工作组
+* 协作
+* 课程
