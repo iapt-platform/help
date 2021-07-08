@@ -16,7 +16,7 @@
 4. 可见性
 5. 保存
 
-![&#x8BBE;&#x7F6E;&#x8BD1;&#x6587;&#x72B6;&#x6001;](../.gitbook/assets/public-1.gif)
+![将版本设置为公开]](../.gitbook/assets/public-1.gif)
 
 您可以直接将已有的译文放到一个已经公开的版本中。保存的时候，读者就可以立即看到。
 
@@ -28,9 +28,9 @@
 
 一个设置为公开，另一个设置为私有。
 
-![&#x4E24;&#x4E2A;&#x5DE5;&#x4F5C;&#x7248;&#x672C;](../.gitbook/assets/two-channel.png)
+![创建两个版本](../.gitbook/assets/two-channel.png)
 
 您在私有译文中翻译，校对。完成后将这些译文批量迁移到一个公开的版本。过后，当您想修改的时候，您可以修改私有版本中的译文。而不必担心不成熟的修改会被其他人看到。在您满意的时候，再次迁移到公开版本。
 
-![&#x7248;&#x672C;&#x8FC1;&#x79FB;](../.gitbook/assets/channel_copy.gif)
+![版本迁移](../.gitbook/assets/channel_copy.gif)
 
