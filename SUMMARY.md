@@ -6,6 +6,10 @@
   * [逐句翻译](quickstart/translate.md)
 * [圣典](palicanon/readme.md)
 * [版本管理](channel/readme.md)
+  * [新建](channel/create.md)
+  * [修改](channel/update.md)
+  * [删除](channel/delete.md)
+  * 应用场景
 * [逐词解析](wbw/readme.md)
 	* [单词菜单](wbw/dropdown.md)
 	* [单词编辑框](wbw/edit_win.md)
