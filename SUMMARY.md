@@ -1,19 +1,36 @@
-* [首页](readme.md)
-* 概要
-* 快速入门
-	* [逐词解析](quickstart/wbw.md)
-* 版本管理
-* 逐词解析
-* 翻译
-	* [在译经楼中翻译](translation/work_in_studio.md)
-	* [在藏经阁中翻译](translation/work_in_lib.md)  
-	* [发布](translation/publish.md)
-	* [修改建议](translation/pr.md)
-	* [markdown语法](translation/markdown.md)
-* 术语
-* 字典
-* 搜索
-* 自定义文章
-* 工作组
-* 协作
-* 课程
+# Table of contents
+* [概要](introduction.md)
+* [快速入门](quickstart/readme.md)
+  * [经文选择](quickstart/pali.md)
+  * [逐词解析](quickstart/wbw.md)
+  * [逐句翻译](quickstart/translate.md)
+* [圣典](palicanon/readme.md)
+* [版本管理](channel/readme.md)
+* [逐词解析](wbw/readme.md)
+	* [单词菜单](wbw/dropdown.md)
+	* [单词编辑框](wbw/edit_win.md)
+	* [书签](wbw/bookmark.md)
+	* [注释](wbw/word_note.md)
+	* [句法分析](wbw/relation.md)
+	* [翻译](wbw/sent_trans.md)
+	* [协作](wbw/studio_coop.md)
+	* [术语](wbw/studio_term.md)
+* [翻译](translation/readme.md)
+  * [在译经楼中翻译](translation/work_in_studio.md)
+  * [在藏经阁中翻译](translation/work_in_lib.md)
+  * [发布](translation/publish.md)
+  * [修改建议](translation/pr.md)
+  * [markdown语法](translation/markdown.md)
+* [术语](term/readme.md)
+* [字典](dict/readme.md)
+* [搜索](search/readme.md)
+* [工作组](group/readme.md)
+	* [创建](group/new.md)
+	* [修改](group/update.md)
+	* [添加成员](group/add_member.md)
+	* [添加资源](group/share.md)
+* [协作](cooperation/readme.md)
+* [课程](course/readme.md)
+	* [建立](course/new.md)
+	* [添加课](course/add.md)
+
