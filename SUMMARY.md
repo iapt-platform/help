@@ -29,6 +29,8 @@
   * [修改建议](translation/pr.md)
   * [markdown语法](translation/markdown.md)
 * [术语](term/readme.md)
+  * [查询](term/readme.md)
+  * [修改](term/readme.md)
 * [字典](dict/readme.md)
 * [搜索](search/readme.md)
 * [工作组](group/readme.md)
