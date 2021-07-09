@@ -31,6 +31,6 @@
 	* [添加资源](group/share.md)
 * [协作](cooperation/readme.md)
 * [课程](course/readme.md)
-	* [建立](course/new.md)
+	* [建立](course/create.md)
 	* [添加课](course/add.md)
 
