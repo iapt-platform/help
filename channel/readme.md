@@ -18,3 +18,8 @@
 - 巴利直译-中文@Bhikkhu Kosalla
 
 还可以利用此功能实现的其他功能，等待大家的挖掘。
+
+**相关**
+- [建立](create.md)
+- [修改](update.md)
+- [删除](delete.md)
