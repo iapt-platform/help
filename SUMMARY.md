@@ -9,7 +9,7 @@
   * [语言过滤](palicanon/lang.md)
   * [作者过滤](palicanon/author.md)
   * [标题搜索](palicanon/search_title.md)
-  * [圣典阅读器](palicanon/reader.md)
+* [阅读器](reader/README.md)
 * [版本管理](channel/readme.md)
   * [新建](channel/create.md)
   * [修改](channel/update.md)
