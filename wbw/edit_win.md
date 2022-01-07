@@ -34,7 +34,7 @@
   
 ## 个人单词本
 
-拆分方式和拆分含义在进入[单词本](https://www.wikipali.org/app/udict/my_dict_list.php)的时候，会在基础单词数据块的基础上，增加和拆分数目相同的单词数据块
+拆分方式和拆分含义在进入[单词本](https://www.wikipali.org/studio/mydict)的时候，会在基础单词数据块的基础上，增加和拆分数目相同的单词数据块
 
 - 内容会被简化为拼写+含义，语法类型代码为**待定组分**
 - 比如：attha+saṃhita 义+已携带，会增加2条单词数据到[单词本](./setting.php?item=userdict)
