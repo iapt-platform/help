@@ -62,6 +62,7 @@
   * [分享文章](cooperation/article.md)
   * [分享文集](cooperation/collection.md)
   * [译文修改建议](cooperation/trans_pr.md)
+  * [资源共享](cooperation/share.md)
 * [课程](course/readme.md)
 	* [建立](course/create.md)
 	* [修改](course/update.md)
