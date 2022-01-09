@@ -40,7 +40,7 @@
 	* [翻译](wbw/studio_translate.md)
 	* [字典](wbw/studio_dict.md)
 	* [术语](wbw/studio_term.md)
-* [翻译](translation/readme.md)
+* [翻译](translation/README.md)
   * [句子编辑](translation/edit.md)
   * [术语](translation/term.md)
   * [修改建议](translation/pr.md)
