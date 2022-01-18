@@ -1,0 +1,6 @@
+[book]
+authors = ["visuddhinanda"]
+language = "zh"
+multilingual = false
+src = "src"
+title = "wikipali 用户手册"
