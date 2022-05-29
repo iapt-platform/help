@@ -1,6 +1,10 @@
 [book]
-authors = ["visuddhinanda"]
-language = "zh"
+authors = ["bhikkhu-kosalla-china"]
+language = "en"
 multilingual = false
 src = "src"
-title = "wikipali 用户手册"
+title = "wikipāli用户手册"
+
+[output.html.fold]
+enable = true
+level = 0

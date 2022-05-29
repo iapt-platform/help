@@ -23,6 +23,7 @@
   - [修改](channel/update.md)
   - [公开性](channel/public.md)
   - [删除](channel/delete.md)
+  - [注释书](channel/commentary.md)
 - [逐词解析](wbw/readme.md)
 	- [新建](wbw/create.md)
 	- [菜单编辑](wbw/dropdown.md)
